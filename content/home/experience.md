@@ -5,7 +5,7 @@ date_format: Jan 2006
 experience:
   - title: Incoming Applied Scientist Intern
     company: Microsoft Cloud AI
-    company_url: ""
+    company_url: ''
     company_logo: microsoft_logo
     location: Bellevue, WA
     date_start: ''
@@ -24,7 +24,7 @@ experience:
 
   - title: Software Engineering Intern
     company: Qualcomm
-    company_url: ""
+    company_url: ''
     company_logo: qualcomm_logo
     location: San Diego, CA
     date_start: '2019-05-19'
@@ -33,7 +33,7 @@ experience:
 
   - title: Software Engineering Intern
     company: Google
-    company_url: ""
+    company_url: ''
     company_logo: google_logo
     location: Mountain View, CA
     date_start: '2020-06-01'
