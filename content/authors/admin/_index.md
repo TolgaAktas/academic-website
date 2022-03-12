@@ -1,7 +1,7 @@
 ---
 title: Tolga F. Aktas
 role: Ph.D. Candidate in Imaging Science @ Rochester Institute of Technology
-avatar_filename: img_1338.jpg
+avatar_filename: avatar.jpg
 bio: Conducting machine intelligence research in self-supervised learning,
   continual learning and computer vision. I am interested in exploring new deep
   learning paradigms.
