@@ -52,4 +52,4 @@ I am a Ph.D. candidate in Carlson Center of Imaging Science at Rochester Institu
 
 I completed my Bachelor of Science at University of Rochester's Electrical & Computer Engineering Department, as well as a minor in Computer Science. My relevant coursework includes Digital Image Processing, Computer Vision, Computer Audition, Stochastic Processes, Autonomous Mobile Robotics, Artificial Intelligence, Deep Learning, Machine Learning, Digital Signal Processing, Data Mining, Detection & Estimation Theory.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.docx" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.docx" "newtab" >}}resumé{{< /staticref >}}.
