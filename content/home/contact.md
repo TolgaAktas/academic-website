@@ -22,22 +22,22 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: tolga.f.aktas@gmail.com
+  phone: XXX XXX XX XX
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 54 Lomb Memorial Dr  
+    city: Rochester
+    region: NY
+    postcode: '14623'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '43.08614739832001'
+    longitude: '-77.6776696504515'
+  directions: Find parking in Parking Lot F and walk to the building behind the bus stop.
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -46,11 +46,11 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/tfaktas'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://rit.zoom.us/j/3870504347'
 
 design:
   columns: '2'
