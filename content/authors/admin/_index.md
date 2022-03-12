@@ -9,7 +9,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: tolga.f.aktas@gmail.com
+    link: mailto:tolga.f.aktas@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/tfaktas
