@@ -17,7 +17,7 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=RGX-VhkAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=zuOpZqgAAAAJ
     display:
       header: true
   - icon: github
