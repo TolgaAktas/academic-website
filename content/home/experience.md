@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineering Intern
-    company: Google
+
+  - title: Incoming Applied Scientist Intern
+    company: Microsoft Cloud AI
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: microsoft_logo
+    location: Mountain View, CA
+    date_start: ''
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description:
+
+  - title: Graduate Researcher
+    company: kLab - Rochester Institute of Technology
+    company_url: 'http://klab.cis.rit.edu/'
+    company_logo:
+    location: Rochester, NY
+    date_start: '2022-01-15'
+    date_end: ''
+    description: Pursuing machine intelligence research in self-supervised learning, continual learning, biologically plausible algorithms, computer vision
+
+  - title: Software Engineering Intern
+    company: Qualcomm
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: qualcomm_logo
+    location: San Diego, CA
+    date_start: '2019-05-19'
+    date_end: '2019-09-01'
+    description: 2-
+        Responsibilities include:
+
+        * Built OpenGL ES application in C++ for avatar rendering using OBJ files developed in Autodesk Maya.
+        * Implemented eye-tracking algorithm in C++ to integrate eye tracking capabilities
+        * Implemented facial landmark detection and tracking algorithm in C++ to add real-time gesture tracking capabilities
+        * Worked on variational/conditional VAE to generate avatar facial texture images using TensorFlow.
+        * Investigated deep learning-based methods for alternative generation of occluded facial landmarks from speech and/or occluded image.
+
 
 design:
   columns: '2'
