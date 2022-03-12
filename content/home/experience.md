@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Relevant Industry and Research Experiences
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
