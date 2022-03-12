@@ -48,14 +48,7 @@ experience:
     location: San Diego, CA
     date_start: '2019-05-19'
     date_end: '2019-09-01'
-    description: 2-
-        Responsibilities include:
-
-        * Built OpenGL ES application in C++ for avatar rendering using OBJ files developed in Autodesk Maya.
-        * Implemented eye-tracking algorithm in C++ to integrate eye tracking capabilities
-        * Implemented facial landmark detection and tracking algorithm in C++ to add real-time gesture tracking capabilities
-        * Worked on variational/conditional VAE to generate avatar facial texture images using TensorFlow.
-        * Investigated deep learning-based methods for alternative generation of occluded facial landmarks from speech and/or occluded image.
+    description:
 
 
 design:
