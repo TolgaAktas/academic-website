@@ -21,9 +21,9 @@ feature:
   icon_pack: custom
   name: PyTorch
 - description: 100%
-  icon: chart-line
+  icon: python
   icon_pack: fas
-  name: python
+  name: Python
 - description: 10%
   icon: camera-retro
   icon_pack: fas
