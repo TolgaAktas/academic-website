@@ -48,7 +48,7 @@ email: tolga.f.aktas@gmail.com
 superuser: true
 highlight_name: true
 ---
-I am a Ph.D. candidate in Carlson Center of Imaging Science at Rochester Institute of Technology. Supervised by Christopher Kanan, I am mainly interested in developing new methods in self-supervised learning, continual learning and computer vision. As part of my coursework at RIT, I have studied various topics across the spectrum of the imaging pipeline, and I was particularly interested in learning about Deep Learning for Vision. Noise & System Modeling, Statistical Machine Learning, Mathematics for Deep Learning, Multi-view Stereo Imaging. 
+I am a Ph.D. candidate in Carlson Center of Imaging Science at Rochester Institute of Technology. Supervised by Christopher Kanan, I am mainly interested in developing new methods in self-supervised learning, continual learning and computer vision. As part of my coursework at RIT, I have studied various topics across the spectrum of the imaging pipeline, and I was particularly interested in learning about Deep Learning for Vision. Noise & System Modeling, Statistical Machine Learning, Mathematics for Deep Learning, Multi-view Stereo Imaging.
 
 I completed my Bachelor of Science at University of Rochester's Electrical & Computer Engineering Department, as well as a minor in Computer Science. My relevant coursework includes Digital Image Processing, Computer Vision, Computer Audition, Stochastic Processes, Autonomous Mobile Robotics, Artificial Intelligence, Deep Learning, Machine Learning, Digital Signal Processing, Data Mining, Detection & Estimation Theory.
 
